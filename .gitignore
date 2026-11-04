@@ -224,3 +224,4 @@ __marimo__/
 .venv_p2/
 .venv_p3/
 .venv_p4/
+.DS_Store
