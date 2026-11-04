@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Виртуальные окружения для частей лабораторной
+.venv_p1/
+.venv_p2/
+.venv_p3/
+.venv_p4/
